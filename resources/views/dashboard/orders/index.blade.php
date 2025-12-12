@@ -12,6 +12,8 @@
                         <i class="fas fa-shopping-cart"></i> Siparişlerim
                     </h3>
                 </div>
+
+                
                 <div class="card-body">
                     @if($orders->count() > 0)
                         <div class="table-responsive">
