@@ -1,6 +1,6 @@
 @extends('dashboard.layouts.app')
 
-@section('title', 'Siparişlerim - GadirMarket')
+@section('title', 'Siparişlerim - Market')
 
 @section('content')
 <div class="container-fluid">
@@ -13,7 +13,7 @@
                     </h3>
                 </div>
 
-                
+
                 <div class="card-body">
                     @if($orders->count() > 0)
                         <div class="table-responsive">
