@@ -1,6 +1,6 @@
-Afetİm - Online Sales Platform
+Online Sales Platform
 
-Afetİm is a dual-role (seller/buyer) online sales platform built with PHP and MySQL. Sellers can publish products, buyers can place orders, and real-time notifications facilitate communication between parties.
+Afetim is a dual-role (seller/buyer) online sales platform built with PHP and MySQL. Sellers can publish products, buyers can place orders, and real-time notifications facilitate communication between parties.
 ✨ Features
 Seller Features
 
